@@ -53,19 +53,17 @@
 
       </div>
 
-      
-
- <div class="grid_3">
+      <div class="grid_3">
         <div class="form-group" style="height:236px">
           <h3>ELECTRIC CAR</h3>
-          <label for="Electric-onroad-price" class="block-label">Onroad Price(Rs)</label>
-          <input type="text" class="txt" id="Electric-onroad-price" value="600000"/>     
-          <label for="Electric-fuel-efficiency" class="block-label">Fuel efficiency(km/ltr)</label>
-          <input type="text" class="txt" id="Electric-fuel-efficiency" value="14"/>     
-          <label for="Electric-price" class="block-label">Price(Rs/ltr)</label>
-          <input type="text" class="txt" id="Electric-price" value="82"/> 
-          <label for="Electric-annual-maintainance" class="block-label">Annual Maintanance(Rs)</label>
-          <input type="text" class="txt" id="Electric-annual-maintainance" value="5000"/> 
+          <label for="petrol-onroad-price" class="block-label">Onroad Price(Rs)</label>
+          <input type="text" class="txt" id="petrol-onroad-price" value="600000"/>     
+          <label for="petrol-fuel-efficiency" class="block-label">Fuel efficiency(km/ltr)</label>
+          <input type="text" class="txt" id="petrol-fuel-efficiency" value="14"/>     
+          <label for="petrol-price" class="block-label">Price(Rs/ltr)</label>
+          <input type="text" class="txt" id="petrol-price" value="82"/> 
+          <label for="petrol-annual-maintainance" class="block-label">Annual Maintanance(Rs)</label>
+          <input type="text" class="txt" id="petrol-annual-maintainance" value="5000"/> 
         </div>
 
         <div class="clear"></div>
